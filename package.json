@@ -1,0 +1,42 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is React project from scratch",
+  "homepage": "https://github.com/sayalikutal292-commits/React-Project-sayali#readme",
+  "bugs": {
+    "url": "https://github.com/sayalikutal292-commits/React-Project-sayali/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sayalikutal292-commits/React-Project-sayali.git"
+  },
+  "license": "ISC",
+  "author": "Sayali",
+  "type": "commonjs",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.29.7",
+    "@babel/preset-env": "^7.29.7",
+    "@babel/preset-react": "^7.29.7",
+    "@testing-library/dom": "^10.4.1",
+    "@testing-library/jest-dom": "^7.0.1",
+    "@testing-library/react": "^16.3.3",
+    "babel-jest": "^30.5.1",
+    "jest": "^30.5.1",
+    "jest-environment-jsdom": "^30.5.1",
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.12.0",
+    "@tailwindcss/postcss": "^4.3.3",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "react-redux": "^9.3.0",
+    "react-router-dom": "^6.28.2",
+    "tailwindcss": "^4.3.3"
+  }
+}

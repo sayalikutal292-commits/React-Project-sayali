@@ -1,0 +1,135 @@
+@import "tailwindcss";
+
+
+
+
+
+
+/* .parent{
+    padding: 0px;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid rgb(179, 178, 178);
+    box-shadow: 0px 1px 2px rgb(179, 178, 178);
+    padding: 10px 20px;
+}
+.logo{
+    width: 120px;
+    height: 100px;
+}
+.nav-item ul{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 20px;
+}
+.nav-item ul li{
+    list-style-type: none;
+    padding: 0px 20px;
+}
+.resto-body{
+    background: #f3f5f7;    
+    padding: 20px 0;
+}
+.resto-container{
+    padding: 20px 20px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0px 5px;
+}
+.resto-card{
+    width: 300px;
+    min-height: 320px;
+    border: 1px solid rgb(230, 230, 230);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+    margin: 20px;
+    box-sizing: border-box;
+    border-radius: 16px;
+    overflow: hidden;
+    background: #fff;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+.resto-card:hover{
+    transform: translateY(-4px);
+    box-shadow: 0 12px 30px rgba(0, 0, 0, 0.12);
+}
+.resto-img{
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+    display: block;
+}
+.resto-details{
+    padding: 14px 16px 16px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+.resto-title-row{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+}
+.resto-title-row h3{
+    margin: 0;
+    font-size: 18px;
+}
+.rating{
+    background: #0c794f;
+    padding: 4px 8px;
+    border-radius: 999px;
+    font-size: 13px;
+    color: #fff;
+    font-weight: 600;
+}
+.resto-desc{
+    margin: 0;
+    color: #666;
+    font-size: 14px;
+    line-height: 1.4;
+}
+.resto-meta{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+.meta-pill{
+    background: #f3f5f7;
+    color: #444;
+    padding: 5px 9px;
+    border-radius: 999px;
+    font-size: 12px;
+    font-weight: 600;
+}
+.filter-btn{
+    cursor: pointer;
+    background: #0c794f;
+    color: #fff;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    margin-left: 10px;
+}
+.filter{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0px 45px;
+}
+.shimmer-container{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding: 20px;
+}
+.shimmer-card{
+    width: 300px;
+    height: 320px;
+    background: #ebebeb;
+    border: 1px solid rgb(230, 230, 230);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+    margin: 20px;
+    border-radius: 16px;
+    overflow: hidden;
+} */
